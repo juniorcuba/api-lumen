@@ -1,4 +1,13 @@
+# Proyecto Api
+Pasos para Correo el Proyecto:
+1- Instalar un servidor que corra PHP como por ejemplo Xampp e iniciar un Apache
+2- Instalar la extensión de Mongobd y modificar el archivo de php.ini
+3- Correr tu proyecto desde la terminal php -S localhost:8000 -t public
+4- Utilizar algún programa para hacer las peticiones. Puede ser Postman o Insomnia
+
 # Lumen PHP Framework
+
+
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
 [![Total Downloads](https://img.shields.io/packagist/dt/laravel/lumen-framework)](https://packagist.org/packages/laravel/lumen-framework)
