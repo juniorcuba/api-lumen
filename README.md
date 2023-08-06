@@ -1,9 +1,12 @@
-# Proyecto Api
-Pasos para Correo el Proyecto:
-1- Instalar un servidor que corra PHP como por ejemplo Xampp e iniciar un Apache
-2- Instalar la extensión de Mongobd y modificar el archivo de php.ini
-3- Correr tu proyecto desde la terminal php -S localhost:8000 -t public
-4- Utilizar algún programa para hacer las peticiones. Puede ser Postman o Insomnia
+Pasos para Correr el Proyecto:
+
+Instala un servidor que ejecute PHP, como Xampp, y luego inicia Apache.
+
+Instala la extensión de MongoDB y modifica el archivo php.ini.
+
+Ejecuta tu proyecto desde la terminal usando el comando php -S localhost:8000 -t public.
+
+Utiliza algún programa para realizar las peticiones. Puede ser Postman o Insomnia.
 
 # Lumen PHP Framework
 
